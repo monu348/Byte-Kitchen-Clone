@@ -25,6 +25,7 @@ Kitchen Byte is a 3D cooking simulation game built in Unity where players prepar
 <img width="787" height="437" alt="image" src="https://github.com/user-attachments/assets/236bed3a-7f7f-4376-86fd-24036a1a24fe" />
 <img width="793" height="439" alt="image" src="https://github.com/user-attachments/assets/5d6b45aa-0039-4d46-8b47-579203d1efc4" />
 <img width="801" height="438" alt="image" src="https://github.com/user-attachments/assets/f71829c7-2a52-440d-a9ec-7ce4a8188b9f" />
+https://github.com/user-attachments/assets/12155786-c319-4df9-bd8a-c1ce463babc3
 
 
 
